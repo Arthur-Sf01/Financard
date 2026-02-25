@@ -29,16 +29,25 @@ O relatório também mostra a diferença (em pontos percentuais) em relação a 
 
 ## Exemplo de saída
 
-
+```text
 ===== FINANCARD – RESULTADO =====
-...
+
+Idade: 16 anos
+Renda total acumulada: R$ 24,000.00
+Gasto total no cartão: R$ 12,000.00
 Comprometimento equivalente: 50.00%
+Equivalente a: 6.0 meses de salário
 Classificação: Ultra Crítico
-...
+
 --- COMPARAÇÃO BRASIL ---
 Referência nacional estimada: ~29.0%
 Diferença: 21.00 p.p. acima
-...
+
+--- ANÁLISE ---
+Seu comprometimento está muito acima do padrão nacional. Risco elevado.
+
+Referência: comprometimento de renda com dívidas (BCB/SGS 29034)
+================================
 
 ## ▶️ Como executar
 No terminal, dentro da pasta do projeto:
