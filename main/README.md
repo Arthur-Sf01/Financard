@@ -48,7 +48,7 @@ Seu comprometimento está muito acima do padrão nacional. Risco elevado.
 
 Referência: comprometimento de renda com dívidas (BCB/SGS 29034)
 ================================
-
+```
 ## ▶️ Como executar
 No terminal, dentro da pasta do projeto:
 
