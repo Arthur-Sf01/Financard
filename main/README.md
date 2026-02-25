@@ -29,6 +29,7 @@ O relatório também mostra a diferença (em pontos percentuais) em relação a 
 
 ## Exemplo de saída
 
+
 ===== FINANCARD – RESULTADO =====
 ...
 Comprometimento equivalente: 50.00%
